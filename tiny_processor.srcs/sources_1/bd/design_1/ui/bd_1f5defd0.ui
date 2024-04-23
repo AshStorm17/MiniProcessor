@@ -1,0 +1,13 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"2.0",
+   "Default View_TopLeft":"-131,-30",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace inst cpu_1 -pg 1 -lvl 1 -x 50 -y 130 -defaultsOSRD
+levelinfo -pg 1 -60 50 250 450 570
+pagesize -pg 1 -db -bbox -sgen -60 -70 570 250
+"
+}
+

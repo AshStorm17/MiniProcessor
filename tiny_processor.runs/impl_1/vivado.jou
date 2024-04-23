@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Apr 23 19:19:36 2024
+# Process ID: 14280
+# Current directory: C:/Users/aashm/OneDrive/Documents/DS/tiny_processor/tiny_processor.runs/impl_1
+# Command line: vivado.exe -log cpu.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source cpu.tcl -notrace
+# Log file: C:/Users/aashm/OneDrive/Documents/DS/tiny_processor/tiny_processor.runs/impl_1/cpu.vdi
+# Journal file: C:/Users/aashm/OneDrive/Documents/DS/tiny_processor/tiny_processor.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source cpu.tcl -notrace
